@@ -15,7 +15,6 @@ st.info('Code animation create video into animation')
 
 icon_size = 20
 
-st_button('turtle', 'https://www.tiktok.com/@code.animation?is_from_webapp=1&sender_device=pc', 'Tiktok', icon_size)
 st_button('youtube', 'https://www.tiktok.com/@code.animation?is_from_webapp=1&sender_device=pc', 'Tiktok', icon_size)
 
 social_media_links = [
