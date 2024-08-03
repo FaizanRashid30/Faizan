@@ -16,3 +16,4 @@ st.info('Code animation create video into animation')
 icon_size = 20
 
 st_button('tiktok', 'https://www.tiktok.com/@code.animation?is_from_webapp=1&sender_device=pc', 'Tiktok', icon_size)
+st_button('tiktok', 'https://www.tiktok.com/@code.animation?is_from_webapp=1&sender_device=pc', 'Tiktok', icon_size)
